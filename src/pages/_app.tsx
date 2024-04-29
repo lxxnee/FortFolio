@@ -34,11 +34,11 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "홍길동 | Front-End Dev",
+      content: "이서린 | Full-Stack Dev",
     },
     {
       name: "msapplication-tooltip",
-      content: "홍길동 | Front-End Dev",
+      content: "이서린 | Full-Stack Dev",
     },
     {
       name: "viewport",
