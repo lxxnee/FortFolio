@@ -7,21 +7,21 @@ import type { AppProps } from "next/app";
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "이서린 | Full-Stack Dev",
+  title: "이서린 | 포트폴리오",
   description: "안녕하세요, 풀스택 개발자 이서린 입니다.",
   canonical: "https://www.naver.com/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
     url: "https://www.naver.com/",
-    title: "이서린 | Full-Stack Dev",
-    site_name: "이서린 | Full-Stack Dev",
+    title: "이서린 | 포트폴리오",
+    site_name: "이서린 | 포트폴리오",
     images: [
       {
         url: "/share.png",
         width: 285,
         height: 167,
-        alt: "이서린 | Full-Stack Dev",
+        alt: "이서린 | 포트폴리오",
       },
     ],
   },
