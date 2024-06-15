@@ -1,8 +1,11 @@
 {
+  "homepage": "https://lxxnee.github.io/FortFolio",
   "name": "portfolio-sjoleee",
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
@@ -35,6 +38,7 @@
     "eslint-config-next": "^13.1.5",
     "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
+    "gh-pages": "^6.1.1",
     "postcss": "^8.4.21",
     "prettier": "^2.8.3",
     "tailwindcss": "^3.2.4"
