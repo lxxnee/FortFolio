@@ -3,7 +3,7 @@ import path from "path";
 
 import { NextPage } from "next";
 
-import Activity from "@/components/Activity";
+// import Activity from "@/components/Activity";
 import Certificate from "@/components/Certificate";
 import Education from "@/components/Education";
 import Footer from "@/components/Footer";
@@ -21,7 +21,7 @@ const Home: NextPage<DataProps> = ({
   information,
   workExperience,
   project,
-  activity,
+  // activity,
   education,
   certificate,
   award,
@@ -34,7 +34,7 @@ const Home: NextPage<DataProps> = ({
         <Information information={information} />
         <WorkExperience workExperience={workExperience} />
         <Project project={project} />
-        <Activity activity={activity} />
+        {/* <Activity activity={activity} /> */}
         <Education education={education} />
         <Certificate certificate={certificate} />
         <Award award={award} />

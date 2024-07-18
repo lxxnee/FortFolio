@@ -41,6 +41,16 @@
       "isTeam": false,
       "period": ["2024. 03. 25", "2024. 03. 28"],
       "stack": ["PHP", "HTML/CSS", "Maria DB"]
+    },
+    {
+      "id": 2,
+      "name": "CamPang",
+      "description": "주제는 캠핑의 인기 급증으로 전국 캠핑장 위치, 시설 등 중요 정보를 소개하는 사이트 입니다.\n Laravel과 vue.js를 이용하여 개발된 사이트입니다.",
+      "webUrl": "http://112.222.157.156:6435",
+      "repoUrl": "https://github.com/project-campang/campang",
+      "isTeam": true,
+      "period": ["2024. 06. 3", "2024. 07. 15"],
+      "stack": ["PHP", "HTML/CSS", "Maria DB", "Laravel", "Vue.js", "BootStrap"]
     }
   ],
 
@@ -63,7 +73,7 @@
     {
       "id": 0,
       "name": "그린아카데미 국비교육",
-      "period": ["2024. 02", "2024. 07(예정)"],
+      "period": ["2024. 02", "2024. 07"],
       "description": "현재 PHP 기반의 풀스택 국비 교육에 참여하고 있습니다."
     }
   ],
@@ -83,7 +93,7 @@
       "name": "이서린",
       "date": "2000. 01. 31",
       "organizer": "010-2131-4032",
-      "description": "seolin9787@nate.com"
+      "description": "lsl9787@naver.com"
     }
   ]
 }
