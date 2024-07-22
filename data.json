@@ -46,7 +46,7 @@
       "id": 2,
       "name": "CamPang",
       "description": "주제는 캠핑의 인기 급증으로 전국 캠핑장 위치, 시설 등 중요 정보를 소개하는 사이트 입니다.\n Laravel과 vue.js를 이용하여 개발된 사이트입니다.",
-      "webUrl": "http://112.222.157.156:6435",
+      "webUrl": "https://112.222.157.156:6435",
       "repoUrl": "https://github.com/project-campang/campang",
       "isTeam": true,
       "period": ["2024. 06. 3", "2024. 07. 15"],
